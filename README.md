@@ -18,7 +18,7 @@ To integrate `XMediator` into your Xcode project using Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/x3mads/xmediator-swift-package", .upToNextMajor(from: "1.169.0"))
+    .package(url: "https://github.com/x3mads/xmediator-swift-package", .upToNextMajor(from: "1.170.0"))
 ]
 ```
 
