@@ -26,8 +26,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "XMediator",
-            url: "https://ios-artifact-registry.x3mads.com/cocoapods/XMediator/XMediator-1.171.1.zip",
-            checksum: "e0540b22c303b491eb4a032934d04ef1a9de1d385c50b9f559d1e1307f061097"
+            url: "https://ios-artifact-registry.x3mads.com/cocoapods/XMediator/XMediator-1.172.0.zip",
+            checksum: "d05e5624f31b714534c6c38783875c3dfc289c8fbef01a0a6d18cfafcf5fcc70"
         ),
         .binaryTarget(
             name: "XMediatorSQLite",
